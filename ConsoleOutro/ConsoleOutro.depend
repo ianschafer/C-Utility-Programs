@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1529864921 source:c:\users\ian\desktop\c++ utility\consoleoutro\consoleoutro.cpp
+	<windows.h>
+	"ConsoleOutro.h"
+
+1528236542 c:\users\ian\desktop\c++ utility\consoleoutro\consoleoutro.h
+
+1529864819 source:c:\users\ian\desktop\c++ utility\consoleoutro\main.cpp
+	<iostream>
+	"ConsoleOutro.h"
+
