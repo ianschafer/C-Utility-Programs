@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1529790002 source:c:\users\ian\desktop\malik exercises\testruntime1\main.cpp
+	<iostream>
+	"ConsoleOutro.h"
+
+1528236542 c:\users\ian\desktop\malik exercises\testruntime1\consoleoutro.h
+
+1528236542 source:c:\users\ian\desktop\malik exercises\testruntime1\consoleoutro.cpp
+	<windows.h>
+	"ConsoleOutro.h"
+
