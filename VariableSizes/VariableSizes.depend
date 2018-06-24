@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529796242 source:c:\users\ian\desktop\malik exercises\variablesizes\variablesizes.cpp
+	<iostream>
+	<limits>
+	<cfloat>
+
